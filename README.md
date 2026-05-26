@@ -4,8 +4,8 @@
 ### SOC Analyst · Detection Engineer · Threat Hunter
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/dronadulasrivish)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat-square&logo=github)](your-github-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/sri-vishnu-dronadula-a429b2259)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat-square&logo=github)](https://github.com/SriVishnu-999)
 
 </div>
 
@@ -69,17 +69,6 @@ I don't just use security tools. I build them, tune them, and break them to unde
 > into **3x broader** ranked attack vectors with **40% faster** severity-ranked pentest reporting.
 
 [→ View Repository](https://github.com/SriVishnu-999/RED-HAWK-AI-Automated-Reconnaissance-Intelligence-Tool-)
-
----
-
-## Certifications
-
-| Certification | Issuer | Credential |
-|---|---|---|
-| QRadar SIEM Foundation | IBM | [Verify](https://www.credly.com/badges/cb492770-7493-424d-a678-982c506006d4/public_url) |
-| Cybersecurity Fundamentals | IBM SkillsBuild | [Verify](https://www.credly.com/badges/ea53f86a-0579-4746-a70d-784209e6d1c4/public_url) |
-| Associate Developer – Python Driver | MongoDB University | [Verify](https://www.credly.com/badges/cb8968-6990-4f1b-bd51-367c5ded0672/public_url) |
-| SOC Learning Path | TryHackMe | [Profile](https://tryhackme.com/p/dronadulasrivish) |
 
 ---
 
